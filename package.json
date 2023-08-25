@@ -1,7 +1,7 @@
 {
   "name": "@flmngr/flmngr-server-node-nest-express",
   "description": "Include Flmngr file manager server-side into your Nest (Express-based) website or app",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "private": false,
   "author": {
     "name": "EdSDK",
@@ -16,8 +16,8 @@
   },
   "type": "commonjs",
   "dependencies": {
-    "@flmngr/flmngr-server-node-express": "^1.5.2",
-    "@flmngr/flmngr-server-node": "^1.5.2",
+    "@flmngr/flmngr-server-node-express": "^1.5.3",
+    "@flmngr/flmngr-server-node": "^1.5.3",
     "@nestjs/common": "^9.0.0"
   },
   "devDependencies": {
