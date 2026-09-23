@@ -1,4 +1,4 @@
-[![Flmngr file manager logo](https://flmngr.com/img/favicons/favicon-64x64.png)](https://flmngr.com)
+[![Flmngr file manager logo](https://flmngr.com/img/logo/64px/Flmngr.png)](https://flmngr.com)
 
 # Flmngr module for NestJS
 
@@ -28,7 +28,7 @@ In case of any problem, we have a **very** detailed Question-Answer [debug manua
 - [Flmngr](https://flmngr.com) - Flmngr file manager.
 - [Install Flmngr module for Nest](https://flmngr.com/doc/install-file-manager-server-node-nest) - the detailed manual on how to install Node file manager on your Nest server.
 - [Nest + Flmngr example](https://github.com/flmngr/flmngr-server-node-nest-express-example-ts)
-- [Flmngr codepens](https://codepen.io/flmngr/pens/public) - collection of JS samples on CodePen.
+- [Flmngr demos](https://codeplay.democdn.com/flmngr) - collection of JS samples on CodePlay.
 - [Flmngr API](https://flmngr.com/doc/api) - API of Flmngr client.
 - [N1ED](https://n1ed.com) - a website content builder with Flmngr file manager aboard, also works as a plugin for CKEditor 4, TinyMCE, which has modules for different CMSs.  
 
